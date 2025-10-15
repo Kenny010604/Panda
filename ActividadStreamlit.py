@@ -4,6 +4,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+import plotly.express as px
 
 # Configuración de la base de datos y API
 DB_NAME = 'usuarios3.db'
